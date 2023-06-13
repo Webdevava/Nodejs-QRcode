@@ -35,7 +35,3 @@ node index.js
 5. The program will generate a QR code image based on the provided URL and save it as `qr_img.png`. It will also save the URL to a text file named `URL.txt`.
 
 6. Verify that the QR code image and text file have been created in the project directory.
-
-## Error Handling
-
-The program includes basic error handling to address TTY errors and other potential issues. If a TTY error occurs, an appropriate error message will be displayed. For any other errors, a generic error message will be shown along with the specific error details.
